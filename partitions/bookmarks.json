@@ -15,7 +15,7 @@
         ]
     },
     {
-        "category": "牛逼的论文",
+        "category": "牛逼的技术",
         "content": [
             {
                 "title": "Massively Parallel A* Search on a GPU",
@@ -26,6 +26,41 @@
                 "title": "Real-Time Polygonal-Light Shading with Linearly Transformed Cosines",
                 "link": "https://eheitzresearch.wordpress.com/415-2/",
                 "comment": "LTC，难死了（"
+            },
+            {
+                "title": "Jump Point Search",
+                "link": "https://zerowidth.com/2013/a-visual-explanation-of-jump-point-search/",
+                "comment": "跳点搜索算法，A*++"
+            }
+        ]
+    },
+    {
+        "category": "有意思的书",
+        "content": [
+            {
+                "title": "GPU Gems",
+                "link": "https://developer.nvidia.com/gpugems/gpugems",
+                "comment": "广且深，三套下来成功入门（"
+            },
+            {
+                "title": "Real-time Rendering",
+                "link": "",
+                "comment": "实时渲染包推荐的"
+            },
+            {
+                "title": "Fundamentals of Computer Graphics",
+                "link": "",
+                "comment": "CG基础，可以康康"
+            },
+            {
+                "title": "概念设计的秘密：游戏美术基础与设计方法",
+                "link": "https://singlelogin.re/book/27422741/971288/%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1%E7%9A%84%E7%A7%98%E5%AF%86%E6%B8%B8%E6%88%8F%E7%BE%8E%E6%9C%AF%E5%9F%BA%E7%A1%80%E4%B8%8E%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%B3%95.html",
+                "comment": "影视飓风团队内的大佬推荐，先插个眼"
+            },
+            {
+                "title": "云边有个小卖部",
+                "link": "",
+                "comment": "初中看的，真的很好看，但是！别去看电影版（"
             }
         ]
     }
