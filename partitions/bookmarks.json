@@ -29,8 +29,8 @@
             },
             {
                 "title": "Jump Point Search",
-                "link": "https://zerowidth.com/2013/a-visual-explanation-of-jump-point-search/",
-                "comment": "跳点搜索算法，A*++"
+                "link": "https://runzhiwang.github.io/2019/06/21/jps/",
+                "comment": "跳点搜索算法，A*++，腾讯大佬写的万字长文，很详细"
             }
         ]
     },
