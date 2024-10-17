@@ -16,6 +16,36 @@
                 "title": "Resolution Independent Starfield",
                 "link": "https://www.shadertoy.com/view/tst3WS",
                 "comment": "看上去很真实的星空，甚至还有星团"
+            },
+            {
+                "title": "Voxel Edges",
+                "link": "https://www.shadertoy.com/view/4dfGzs",
+                "comment": "体素地图的边缘光，很炫酷"
+            },
+            {
+                "title": "The Universe Within",
+                "link": "https://www.shadertoy.com/view/lscczl",
+                "comment": "各个随机运动的点之间连线，如果像素化的话感觉也会很好看"
+            },
+            {
+                "title": "Main Sequence Star",
+                "link": "https://www.shadertoy.com/view/4dXGR4",
+                "comment": "一颗主序星，就是动感不是很多有点可惜"
+            },
+            {
+                "title": "Noise Contour",
+                "link": "https://www.shadertoy.com/view/MscSzf",
+                "comment": "风格化的描边，很有内味值得学习"
+            },
+            {
+                "title": "Pretty Hip",
+                "link": "https://www.shadertoy.com/view/XsBfRW",
+                "comment": "有点像舞台的那种背景，挺好看的"
+            },
+            {
+                "title": "[SH17C] Physically Based Shading",
+                "link": "https://www.shadertoy.com/view/4sSfzK",
+                "comment": "教程向的Shader，非常标准的PBR示例，甚至有UI可以互动"
             }
         ]
     },
@@ -45,7 +75,7 @@
             {
                 "title": "GPU Gems",
                 "link": "https://developer.nvidia.com/gpugems/gpugems",
-                "comment": "广且深，三套下来成功入门（"
+                "comment": "广且深，三套下来成功入门（tu）（bushi"
             },
             {
                 "title": "Real-time Rendering",
