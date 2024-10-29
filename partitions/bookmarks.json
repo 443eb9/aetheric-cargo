@@ -46,6 +46,151 @@
                 "title": "[SH17C] Physically Based Shading",
                 "link": "https://www.shadertoy.com/view/4sSfzK",
                 "comment": "教程向的Shader，非常标准的PBR示例，甚至有UI可以互动"
+            },
+            {
+                "title": "[2TC 15] Mystery Mountains",
+                "link": "https://www.shadertoy.com/view/llsGW7",
+                "comment": "很唯美的山峰群"
+            },
+            {
+                "title": "Ether",
+                "link": "https://www.shadertoy.com/view/MsjSW3",
+                "comment": "虚无缥缈的质感"
+            },
+            {
+                "title": "2d signed distance functions",
+                "link": "https://www.shadertoy.com/view/4dfXDn",
+                "comment": "2D SDF光照和形状"
+            },
+            {
+                "title": "Analytic Motionblur 2D",
+                "link": "https://www.shadertoy.com/view/MdSGDm",
+                "comment": "如题，运动模糊，极其丝滑"
+            },
+            {
+                "title": "Simplicity Galaxy",
+                "link": "https://www.shadertoy.com/view/MslGWN",
+                "comment": "利用分形创造类似星团的形状"
+            },
+            {
+                "title": "Auroras",
+                "link": "https://www.shadertoy.com/view/XtGGRt",
+                "comment": "超级超级美的极光！值得学习"
+            },
+            {
+                "title": "FixingPixelArt",
+                "link": "https://www.shadertoy.com/view/XsjSzR",
+                "comment": "CRT效果"
+            },
+            {
+                "title": "Inverse Bilinear",
+                "link": "https://www.shadertoy.com/view/lsBSDm",
+                "comment": "利用 Inverse Bilinear 插值计算点在方片内的位置"
+            },
+            {
+                "title": "[SH17A] Tiny Clouds",
+                "link": "https://www.shadertoy.com/view/lsBfDz",
+                "comment": "极简体积云实现"
+            },
+            {
+                "title": "Atmospheric scattering explained",
+                "link": "https://www.shadertoy.com/view/wlBXWK",
+                "comment": "还是大气散射"
+            },
+            {
+                "title": "Chromatic Aberration",
+                "link": "https://www.shadertoy.com/view/Mds3zn",
+                "comment": "色散效果"
+            },
+            {
+                "title": "Rainbow Showoff",
+                "link": "https://www.shadertoy.com/view/lscBRf",
+                "comment": "像素彩虹瀑布"
+            },
+            {
+                "title": "https://www.shadertoy.com/view/XlGcRh",
+                "link": "Hash Functions for GPU Rendering",
+                "comment": "GPU Hashing"
+            },
+            {
+                "title": "Full Scene Radial Blur",
+                "link": "https://www.shadertoy.com/view/XsKGRW",
+                "comment": "辐射状的模糊"
+            },
+            {
+                "title": "Structured Vol Sampling",
+                "link": "https://www.shadertoy.com/view/Mt3GWs",
+                "comment": "一种不会产生抖动的采样方式"
+            },
+            {
+                "title": "Bokeh Paralax",
+                "link": "https://www.shadertoy.com/view/4s2yW1",
+                "comment": "镜头光斑，适合做屏保（bushi"
+            },
+            {
+                "title": "IK Solver",
+                "link": "https://www.shadertoy.com/view/ldlGR7",
+                "comment": "逆动力学"
+            },
+            {
+                "title": "up in the cloud sea",
+                "link": "https://www.shadertoy.com/view/Ndc3zl",
+                "comment": "插画风格，很漂亮"
+            },
+            {
+                "title": "Real time PBR Volumetric Clouds",
+                "link": "https://www.shadertoy.com/view/MstBWs",
+                "comment": "PBR 体积光"
+            },
+            {
+                "title": "Screen Space Horizon GI",
+                "link": "https://www.shadertoy.com/view/dsGBzW",
+                "comment": "屏幕空间全局光照"
+            },
+            {
+                "title": "SH - visualizer",
+                "link": "https://www.shadertoy.com/view/lsfXWH",
+                "comment": "球谐函数可视化"
+            },
+            {
+                "title": "A Fast Voxel Traversal Algorithm",
+                "link": "https://www.shadertoy.com/view/XddcWn",
+                "comment": "矢量图->像素画"
+            },
+            {
+                "title": "Post process - SSAO",
+                "link": "https://www.shadertoy.com/view/Ms33WB",
+                "comment": "屏幕空间环境光遮蔽"
+            },
+            {
+                "title": "Motion Blur",
+                "link": "https://www.shadertoy.com/view/4sBGD1",
+                "comment": "运动模糊"
+            },
+            {
+                "title": "VOLUMETRIC CLOUD",
+                "link": "https://www.shadertoy.com/view/3sffzj",
+                "comment": "卡通风格体积云"
+            },
+            {
+                "title": "Jump Flood Algorithm: Points",
+                "link": "https://www.shadertoy.com/view/Mdy3DK",
+                "comment": "JFA 算法的实现"
+            },
+            {
+                "title": "Sparks from fire",
+                "link": "https://www.shadertoy.com/view/wl2Gzc",
+                "comment": "火花特效"
+            },
+            {
+                "title": "filtered checker (box, 2D)",
+                "link": "https://www.shadertoy.com/view/XlcSz2",
+                "comment": "不会产生锯齿的采样器"
+            },
+            {
+                "title": "Cloudy Shapes",
+                "link": "https://www.shadertoy.com/view/WdXGRj",
+                "comment": "特定形状的体积云"
             }
         ]
     },
