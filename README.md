@@ -25,7 +25,8 @@
     "dialog": [
         {
             "expression": "https://link.to.your/persona/hi",
-            "content": "具体留言内容"
+            "content": "具体留言内容",
+            "customHtml": "<p>自定义 html</p>"
         },
         {
             "expression": "https://link.to.your/persona/smile",
@@ -35,4 +36,6 @@
 }
 ```
 
-其中 `dialog` 可选，如果你填了，那么在网站上，别人可以通过点击你头像来触发类似于对话的内容。
+其中 `dialog` 可选，如果你填了，那用户就有某种方式触发你的框。`customHtml` 允许你编写一些 html 代码，会被注入至对话框中成为 DOM 元素。
+
+当然，如果你写了 `customHtml` ，`content` 就可以留空了（填空字符串 `""` 就行，但是请不要不填）。
