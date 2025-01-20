@@ -21,16 +21,8 @@
     "avatar": "https://link.to.your/avatar.format",
     "name": "Your site",
     "link": "https://example.your.site",
-    "message": "留言，或者是简介，也可以是一个颜文字，总之随便写（"
-}
-```
-
-其中，`message` 还可以是
-
-```json
-{
-    // ...
-    "message": [
+    "message": "留言，或者是简介，也可以是一个颜文字，总之随便写（",
+    "dialog": [
         {
             "expression": "https://link.to.your/persona/hi",
             "content": "具体留言内容"
@@ -43,4 +35,4 @@
 }
 ```
 
-如果你选用了这种形式，那么在网站上，别人可以通过点击你头像来触发类似于对话的操作。
+其中 `dialog` 可选，如果你填了，那么在网站上，别人可以通过点击你头像来触发类似于对话的内容。
